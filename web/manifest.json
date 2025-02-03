@@ -1,6 +1,6 @@
 {
-    "name": "ruzfa",
-    "short_name": "ruzfa",
+    "name": "habr",
+    "short_name": "habr",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
