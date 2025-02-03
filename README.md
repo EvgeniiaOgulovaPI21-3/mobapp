@@ -6,8 +6,4 @@
 
 Flutter проект на языке Dart
 
-
-
-
-https://github.com/user-attachments/assets/9740a7e1-d1b9-4305-a192-d357b4447b2d
-
+https://github.com/user-attachments/assets/c9eb6ac4-22c5-4cd1-b1f1-c5836e9f2529
