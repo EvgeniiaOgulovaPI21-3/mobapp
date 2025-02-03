@@ -1,10 +1,9 @@
+
+https://github.com/user-attachments/assets/29a9573c-b3fe-476b-b513-6e70ae2aed2e
 # Галерея женских мемов 
 
 Для парсинга использован Firebase Cloud Firestore
 
 Flutter проект на языке Dart
 
-
-
-https://github.com/user-attachments/assets/4ba90a13-0719-46db-8d19-46fcfb8124e5
-
+Uploading Video app Female Memes.mp4…
