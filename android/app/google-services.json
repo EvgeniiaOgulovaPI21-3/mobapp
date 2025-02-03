@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "135210622306",
+    "firebase_url": "https://meme-bcb1e-default-rtdb.firebaseio.com",
+    "project_id": "meme-bcb1e",
+    "storage_bucket": "meme-bcb1e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135210622306:android:83d7eeaab3bef573aa203b",
+        "android_client_info": {
+          "package_name": "com.example.meme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa12_B2dt2mm7_ugvHmIDi84wU8G0Pz1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135210622306:android:c3a255e9fe7bf547aa203b",
+        "android_client_info": {
+          "package_name": "com.example.meme_gallery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa12_B2dt2mm7_ugvHmIDi84wU8G0Pz1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135210622306:android:cf4b64f623f08138aa203b",
+        "android_client_info": {
+          "package_name": "com.example.memes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa12_B2dt2mm7_ugvHmIDi84wU8G0Pz1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
